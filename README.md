@@ -1,6 +1,3 @@
-# scamark
-ean13-validator
-
 ## Usage
 
 Install dotnet script !
